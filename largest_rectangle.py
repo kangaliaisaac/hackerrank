@@ -6,6 +6,12 @@ Explanation/Tutorial:
     - https://www.youtube.com/watch?v=VNbkzsnllsU
     - https://www.youtube.com/watch?v=ZmnqCZp9bBs
     - https://tech.pic-collage.com/algorithm-largest-area-in-histogram-84cc70500f0c
+    - https://www.youtube.com/watch?v=jJPtLzq1E-Y
+    - https://www.youtube.com/watch?v=71kEvXsEKYQ
+    - https://www.youtube.com/watch?v=bMF2fG9eY0A
+    - https://www.youtube.com/watch?v=HtSuA80QTyo
+    - https://www.youtube.com/watch?v=FO7VXDfS8Gk
+    - https://www.youtube.com/watch?v=VNbkzsnllsU
 
 Runs in O(n) time
 """
